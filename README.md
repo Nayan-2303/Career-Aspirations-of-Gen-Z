@@ -42,5 +42,5 @@ This Excel dashboard provides insights into the career aspirations of GenZ based
 3. Refer to the KPIs for quick insights into the respondent demographics.
 4. Analyze each section of the dashboard to answer the business questions outlined above.
 
-## Image Reference
+## Dashboard
 ![Dashboard Preview](Dashboard.jpg)
