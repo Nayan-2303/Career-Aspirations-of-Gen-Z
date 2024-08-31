@@ -43,4 +43,4 @@ This Excel dashboard provides insights into the career aspirations of GenZ based
 4. Analyze each section of the dashboard to answer the business questions outlined above.
 
 ## Image Reference
-![Dashboard Preview]()
+![Dashboard Preview](Dashboard.jpg)
